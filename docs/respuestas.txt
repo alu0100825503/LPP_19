@@ -1,1 +1,3 @@
-Trabajo en equipo con git
+El fichero helloWorld.sh es un script para BASH y el fichero helloWorld.rb un programa escrito en Ruby. 
+
+La primera línea de helloWorld.sh indica dónde se encuentra el intérprete de comandos del sistema.
