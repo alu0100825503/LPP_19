@@ -1,1 +1,1 @@
-Trabajo en equipo con git
+Los lenguajes compilados necesitan de un programa especial que lea el código fuente y cree un archivo objeto. Por otra parte, los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan.
